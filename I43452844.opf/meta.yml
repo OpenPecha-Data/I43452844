@@ -1,0 +1,43 @@
+id: I43452844
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T04:58:04.520757'
+last_modified: '2022-05-31T04:58:04.520768'
+parser: null
+source_metadata:
+  title: Khyenrab Chökyi Özer Series
+  language: en
+  description: Texts by and about the learned Sakya scholar Khyenrab Chökyi Özer (mkhyen
+    rab chos kyi 'od zer, 1889–1959), the student of Khenpo Shenpen Nangwa and his
+    successor at the scriptural colleges of both Dzongsar and Palpung.
+  volume:
+    fDF2D:
+      title: Advice on Remembering One’s Parents
+      base_file: fDF2D.txt
+      order: 1
+      parent: Advice
+    f747E:
+      title: Prayer for the Long Life of Khyenrab Chökyi Özer
+      base_file: f747E.txt
+      order: 2
+      parent: Long Life Prayers
+    f1F5F:
+      title: 'The Flower of Auspiciousness: A Prayer for the Long Life of Khenpo Khyenrab
+        Chökyi Özer, Masterful Expositor of Scripture and Reasoning'
+      base_file: f1F5F.txt
+      order: 3
+      parent: Long Life Prayers
+    f456F:
+      title: 'The Sweet Melody to Accomplish Words of Truth: A Prayer for the Long
+        Life of the Dharma-Expounding Guide Khenchen Khyenrab Chökyi Özer'
+      base_file: f456F.txt
+      order: 4
+      parent: Long Life Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
